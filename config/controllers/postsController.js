@@ -1,0 +1,1 @@
+// const postsModel = require('../models/posts')
